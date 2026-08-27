@@ -1,0 +1,34 @@
+{
+  "name": "cia-2-practical-question-paper-set-2",
+  "version": "1.0.0",
+  "description": "CIA-2 Practical Question Paper - Set 2 - Node.js & Asynchronous JavaScript (Tasks 1-10)",
+  "main": "countdown.js",
+  "scripts": {
+    "start": "node countdown.js",
+    "dev": "nodemon countdown.js",
+    "task1": "node task1.js",
+    "task2": "node task2.js",
+    "task3": "node task3.js",
+    "task4": "node task4.js",
+    "task5": "node task5.js 10",
+    "task6": "nodemon task6.js",
+    "task7": "node task7.js",
+    "task7:buggy": "node task7_buggy.js",
+    "task8": "node task8.js",
+    "task9": "node task9.js",
+    "task10": "node task10.js"
+  },
+  "keywords": [
+    "nodejs",
+    "asynchronous-javascript",
+    "timers",
+    "promises",
+    "callbacks",
+    "event-loop"
+  ],
+  "author": "jessesuniljs1-collab",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
